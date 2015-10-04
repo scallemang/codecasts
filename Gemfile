@@ -7,6 +7,8 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', group: [:development, :test]
 # Use Twitter Bootstrap as CSS framework
 gem 'bootstrap-sass', '~> 3.3.1'
+# Use Font Awesome for icons
+gem 'font-awesome-rails'
 
 # Use postgresql as the database for production
 group :production do 
